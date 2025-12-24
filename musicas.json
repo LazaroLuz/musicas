@@ -69,7 +69,7 @@
     "id": 12,
     "titulo": "Musica 012",
     "instrumental": "https://drive.google.com/uc?export=download&id=1oNywL4xl2yAl6l4FGO30oOKmkrbWdZSz",
-    "vocal": "mhttps://drive.google.com/uc?export=download&id=1pKTeFj7GSfZfbLISwxE_KRm7L-t7y6BA"
+    "vocal": "https://drive.google.com/uc?export=download&id=1pKTeFj7GSfZfbLISwxE_KRm7L-t7y6BA"
   },
   {
     "id": 13,
@@ -236,7 +236,7 @@
   {
     "id": 40,
     "titulo": "Musica 040",
-    "instrumental": "https://drive.google.com/uc?export=download&id=14hAqFatah7-A8vzk2dj4_HOx9t22drm5",
+    "instrumental": "https://drive.google.com/uc?export=download&id=1S5rgPKccZbIUDkLy4ux8cT0bu7VA5hWr",
     "vocal": "https://drive.google.com/uc?export=download&id=1kDfSZuKh4ZXgRHxvoMAfDxPltbLiZ8i_"
   },
   {
@@ -625,4 +625,5 @@
   }
 
 ]
+
 
